@@ -1,0 +1,7 @@
+Trabalho de desenvolvimento da disciplina WEB II 
+
+Centro Paula souza - ETEC Guarulhos
+
+Lógica  e código php: Bruno Alves
+
+Front End e travas em javascript: João Roberto

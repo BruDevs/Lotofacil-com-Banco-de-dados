@@ -1,0 +1,5 @@
+Na criação do banco de dados, foi utilizado o MySQL Workbench
+
+durante uso no Lab 2 não foi necessário senha nos parâmetros de conexão 
+
+no lab 3 a senha foi exigida sendo a mesma "root"
